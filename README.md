@@ -17,3 +17,13 @@ This project simulates a small IoT-based smart home system using ESP32/Arduino.
 [👉 Click here to view the project on Wokwi](https://wokwi.com/projects/example_link)
 
 ## 📂 Project Structure
+## 🚀 How to Run
+1. Open the code/ folder and upload the .ino file to Arduino IDE.  
+2. Open the Serial Monitor (9600 baud).  
+3. You will see messages simulating the smart home running every 2 seconds.
+
+## 👨‍💻 Author
+[SiouarJlidi]  
+
+## 📄 License
+This project is licensed under MIT License.
