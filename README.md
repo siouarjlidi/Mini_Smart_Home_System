@@ -6,6 +6,7 @@ This project simulates a small IoT-based smart home system using ESP32/Arduino.
 - Motion detection
 - Light control
 - Temperature & humidity monitoring
+- Simulated real-time control via serial monitor
 
 ## 🧰 Tools Used
 - Wokwi (for simulation)
